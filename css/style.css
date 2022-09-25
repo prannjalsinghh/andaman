@@ -178,7 +178,7 @@ header h1 a span {
 	color: #fff;
 	display: block;
 	font-size: 12px;
-	letter-spacing: 3px;
+	
 	word-spacing: 5px;
 }
 
@@ -823,7 +823,7 @@ span.andaman {
 span.andaman:before {
 	content: " ";
 	background: #fb7c5a;
-	width: 50px;
+	width: 35px;
 	height: 2px;
 	position: absolute;
 	/* top: 0px; */
@@ -834,7 +834,7 @@ span.andaman:before {
 span.andaman:after {
 	content: " ";
 	background: #fb7c5a;
-	width: 50px;
+	width: 35px;
 	height: 2px;
 	position: absolute;
 	bottom: -20px;
@@ -844,7 +844,7 @@ span.andaman:after {
 
 span .tour {
 	bottom: -20px;
-	left: 70px;
+	left: 40px;
 	position: absolute;
 }
 
