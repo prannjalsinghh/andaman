@@ -31,7 +31,7 @@ Number Of People = $nPeople\n
 ---------------------------------------\n
 Date = $date\n
 ---------------------------------------";
-$headers = "From: noreply@mytourguru.com\n";
+$headers = "From: noreply@andamanoceantours.com\n";
 $headers .= "Reply-To: $email_address";	
 
 // echo $name;
