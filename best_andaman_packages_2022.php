@@ -44,7 +44,7 @@
                             <div id="mainNav" class="collapse navbar-collapse tm-bg-white">
                                 <ul class="navbar-nav ml-auto">
                                    <li class="nav-item"><a class="nav-link" href="mailto:sales@andamanoceantours.com"> <i class="fa fa-envelope top-header-icon"></i> sales@andamanoceantours.com </a></li>
-                                   <li class="nav-item"><a class="nav-link" href="tel:+917063911703"><i class="fa fa-phone top-header-icon"></i>  +91-7063911703 </a></li>
+                                   <li class="nav-item"><a class="nav-link" href="tel:+917063911703"><i class="fa fa-phone top-header-icon"></i>  +91-9971750170 </a></li>
                             </ul>
                         </div>                            
                     </nav>
