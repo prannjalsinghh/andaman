@@ -242,7 +242,7 @@ header h1 a span {
 
 
 .inner-banner {
-	background: url(../images/pb-car-4.jpg)no-repeat center;
+	background: url(../banner/about.jpg)no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -264,7 +264,17 @@ header h1 a span {
 }
 
 .inner-banner3 {
-	background: url(../images/jet.jpg)no-repeat center;
+	background: url(../banner/typepackages.jfif)no-repeat center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
+	background-size: cover;
+	min-height: 450px;
+	position: relative;
+}
+.inner-banner0{
+	background: url(../banner/activities.jpeg)no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -275,13 +285,13 @@ header h1 a span {
 }
 
 .inner-banner4 {
-	background: url(../images/pb-car-1.jpg)no-repeat center;
+	
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
 	background-size: cover;
-	min-height: 450px;
+	min-height: 75px;
 	position: relative;
 }
 
@@ -853,8 +863,7 @@ span.hdng {
 }
 
 .banner-bottom {
-	background: linear-gradient(rgba(0, 0, 0, 0.3),
-			rgba(0, 0, 0, 0.5)), url(../images/andaman-and-nicobar-islands-havelock-island-149275166462-orijgp.jpg) no-repeat;
+	background:  url(../banner/packagesBg.jpeg) no-repeat;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
