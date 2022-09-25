@@ -1,0 +1,23 @@
+.table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table td, .table th{
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+    text-align: center;
+    font-size: 16px;
+}
+.table th{
+    background-color: #019BA7;
+    color: #ffffff;
+}
+
+/* responsive */
+
+@media(max-width: 768px){
+    .pTable{
+        overflow-x:auto;
+    }
+}
