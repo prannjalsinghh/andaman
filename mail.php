@@ -16,7 +16,7 @@ $date=$_POST['date'];
 $nPeople=$_POST['nPeople'];
 // $message = $_POST['msg'];
 	
-$to = 'sales@andamanoceantours.com';
+$to = 'saxena.piyush.011@gmail.com';
 // $to = 'arijitdhar04@gmail.com';
 $email_subject = "Website Contact Form: $name" +" From Andaman Ocean Tours";
 $email_body = "You have received a new message from your website contact form.\n\n"."Here are the details:\n
