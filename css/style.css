@@ -973,8 +973,9 @@ section.stat_w3l {
 /*--footer--*/
 
 .footer_w3layouts_section_1its {
-	background-image: linear-gradient(rgba(0, 0, 0, 0.3),
-			rgba(0, 0, 0, 0.5)), url(../images/pb-footer.jpg);
+	background-image:  url(../banner/footerBg.jpg);
+	background-position:center;
+	background-size: cover;
 }
 
 .footer_w3layouts_section_1its h3,
