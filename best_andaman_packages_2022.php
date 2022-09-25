@@ -382,9 +382,9 @@
                            
                           
                             <div class="social-icon">
-                                    <a href="https://www.facebook.com/mytourguru" class="btn-social-icon"><i class="fa fa-facebook"></i></a> 
-                                    <a href="https://www.linkedin.com/company/mytourguru" class="btn-social-icon"><i class="fa fa-linkedin"></i></a> 
-                                    <a href="https://www.instagram.com/mytourguru" class="btn-social-icon"><i class="fa fa-instagram"></i></a>
+                                    <a href="#" class="btn-social-icon"><i class="fa fa-facebook"></i></a> 
+                                    <a href="#" class="btn-social-icon"><i class="fa fa-linkedin"></i></a> 
+                                    <a href="#" class="btn-social-icon"><i class="fa fa-instagram"></i></a>
                                     <a href="https://www.youtube.com/channel/UCnDSesULTICRMs_SUnFFa9A" class="btn-social-icon"><i class="fa fa-youtube"></i></a>
                             </div>
                         </div>
